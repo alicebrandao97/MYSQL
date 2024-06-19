@@ -1,1 +1,1 @@
-Aqui eu crio uma tabela chamada duplicata, preencho a tabela e faço modificações nela
+Tudo o que sei sobre MYSQL
